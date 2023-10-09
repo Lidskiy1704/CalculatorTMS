@@ -6,7 +6,7 @@ internal class Program
     {
         double firstNumber;
         double secondNumber;
-        string? symbol;
+        string? symbolг;
 
         do
         {
